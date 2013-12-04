@@ -19,6 +19,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'bootstrap-sass'
 
 group :doc do
   gem 'sdoc', '0.3.20', require: false
